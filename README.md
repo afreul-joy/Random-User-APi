@@ -11,7 +11,7 @@ https://afreul-joy.github.io/Random-User-APi/
   
 ## Tech Stack
 
-**Client:** HTML,Bootstrap
+**Client:** HTML,Bootstrap,JS
 
 
   
